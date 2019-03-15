@@ -1,0 +1,12 @@
+#the following matched file will be ignored
+*.pyc
+log*
+model_main_*.py
+train_fpn*.sh
+train_mtk*.sh
+train_ssd*.sh
+train_FT*sh
+customized_calcu_precision_recall.py
+run_*.py
+export_tflite_ssd_graph.sh
+export_inference_graph.sh
