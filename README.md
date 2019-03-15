@@ -9,7 +9,7 @@ This repository contains the implementation of [TensorFlow](https://www.tensorfl
 * Subtle difference with [TF-OD-API](https://github.com/tensorflow/models/tree/master/research/object_detection). You can use it nearly the same as [TF-OD-API](https://github.com/tensorflow/models/tree/master/research/object_detection)
 * Modification mainly lies in `protos/train.proto` and `model_lib_multiGPU.py`. I sugguest to read the source code if you are interested in complete implementation.
 
-1. more fancy train configurations are implemented in `protos/train.proto`
+* More fancy train configurations are implemented in `protos/train.proto`
 
 
 ## Usage
